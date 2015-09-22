@@ -21,4 +21,6 @@
  Release Date:				2014-08-10<br/>
  Latest Update:				2014-08-10<br/>
  ##TEAM
+ ## [Oneluiz](https://github.com/oneluiz), you frogot one thing, the install can't be in the root, so you have to write an library for that....
+ ##we will talk later about that...
  ##[FailZorD](https://github.com/FailZorD), [Oneluiz](https://github.com/oneluiz), [Adomasalcore3](https://github.com/adomasalcore3)
