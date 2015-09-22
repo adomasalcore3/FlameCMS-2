@@ -12,6 +12,10 @@
 + You can change the: Copyright 2014 YOURNAME
 + You MUST not change the Blizzard Copyrights you can get Sued.
 
+## information about the CI
++ this is based on CodeIgniter, some servers do not allow it, so do a first-check if your server can handle it.
++ this is a mere fork, it will be updated to CI 3.0.1, be aware of that.
++ current version: unknown by me (sorry :S)
 
  ##CMS:				*FlameCMS*
  ##Based on:		[Battle.net](http://us.battle.net)
