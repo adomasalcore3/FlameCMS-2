@@ -48,7 +48,11 @@ $route['^(en|de|fr|es|pt|it|ru|ko|tw|cn)/(.+)$'] = "$2";
  * '/en', '/de', '/fr' and '/nl' URIs -> use default controller
  */
 $route['^(en|de|fr|es|pt|it|ru|ko|tw|cn)$'] = $route['default_controller'];
-
+/*
+$temp='^(en|de|fr|es|pt|it|ru|ko|tw|cn)/admin';
+$route[$temp] ='view/admin';
+$route[$temp.'/(:any)']=
+*/
 /**
  * URLS CMS
  */
